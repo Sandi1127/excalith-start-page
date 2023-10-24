@@ -153,7 +153,7 @@ const defaultConfig = {
 						icon: "material-symbols:logo-dev"
 					},
 					{
-						name: "Stack Overflow",
+						name: "Iserv",
 						url: "https://stackoverflow.com/",
 						icon: "mdi:stack-overflow"
 					}
